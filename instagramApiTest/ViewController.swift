@@ -22,8 +22,8 @@ class ViewController: UIViewController {
         その人の写真んを投稿順に〜〜
             
         
-        
-        
+        */
+
         
         
         
